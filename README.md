@@ -1,5 +1,10 @@
 # ai-webhook
 
+[![npm version](https://img.shields.io/npm/v/ai-webhook.svg)](https://www.npmjs.com/package/ai-webhook)
+[![npm downloads](https://img.shields.io/npm/dm/ai-webhook.svg)](https://www.npmjs.com/package/ai-webhook)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate production-ready webhook handlers with signature verification, retry logic, and idempotency. Just describe the event.
 
 ## Install
