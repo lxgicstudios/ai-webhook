@@ -1,5 +1,5 @@
 {
-  "name": "ai-webhook",
+  "name": "@lxgicstudios/ai-webhook",
   "version": "1.0.0",
   "description": "AI-powered webhook handler generator - secure webhook endpoints with GPT",
   "main": "dist/index.js",
