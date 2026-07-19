@@ -8,7 +8,7 @@
     "ai-webhook": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-webhook/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,7 +31,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-webhook",
+  "homepage": "https://github.com/LXGIC-Studios/ai-webhook",
   "keywords": [
     "webhook",
     "event-driven",
@@ -41,7 +41,19 @@
     "site-architecture",
     "june-2026-core-update",
     "seo-optimized",
-    "clawdbot"
+    "clawdbot",
+    "ai",
+    "anthropic",
+    "automation",
+    "claude",
+    "cli",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -52,8 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-webhook"
+    "url": "git+https://github.com/LXGIC-Studios/ai-webhook.git"
   },
   "scripts": {
     "build": "tsc"
