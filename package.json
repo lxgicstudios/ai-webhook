@@ -47,10 +47,7 @@
     "event-driven",
     "gpt",
     "http",
-    "integration",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "integration"
   ],
   "license": "MIT",
   "main": "dist/index.js",
